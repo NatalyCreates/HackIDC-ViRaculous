@@ -14,7 +14,7 @@ public class CandyGenerator : MonoBehaviour {
         Debug.Log(ground.GetComponent<Renderer>().bounds.size.x);
         Debug.Log(ground.GetComponent<Renderer>().bounds.size.z);
 
-        for (int i = 0; i < 50000; i++)
+        for (int i = 0; i < 5000; i++)
         {
 
                 float xVal = Random.Range(0, ground.GetComponent<Renderer>().bounds.size.x) /100;
