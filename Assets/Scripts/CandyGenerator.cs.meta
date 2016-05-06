@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: febd58136f3dc4d42a7141d48261b365
-timeCreated: 1462523542
+timeCreated: 1462546655
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cookie: {fileID: 100000, guid: f6083501ed0c56147af4807406aaacbc, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
